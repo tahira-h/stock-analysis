@@ -12,7 +12,11 @@ RESULTS
 
 Performance Between 2017 and 2018
 	
-The stock performance between 2017 and 2018 show that 2017 has the data of ____. This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
+The stock performance between 2017 and 2018 show that 2017 has the data of ____. 
+
+2021-02-13.png
+
+This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
  
  Execution Times of the Original Script and the Refactored Script 
 
