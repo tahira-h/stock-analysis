@@ -14,7 +14,10 @@ Performance Between 2017 and 2018
 	
 The stock performance between 2017 and 2018 show that 2017 has the data of ____. 
 
+Open the file containing 2017.
+2017
 2021-02-13.png
+Close the file.
 
 This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
  
