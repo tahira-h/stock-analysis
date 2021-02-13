@@ -14,9 +14,18 @@ Performance Between 2017 and 2018
 	
 The stock performance between 2017 and 2018 show that 2017 has the data of ____. 
 
-Open the file containing 2017.
-2017.
+Open the file containing the Linux mascot.
+Marvel at its beauty.
+
+Tux, the Linux mascot
+
+Close the file.
+
+Open the file containing the Seconds of 2017.
+Seconds of 2017.
+
 ![2017](./2017.png)
+
 Close the file.
 
 This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
