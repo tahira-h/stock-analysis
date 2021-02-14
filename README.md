@@ -22,7 +22,7 @@ Close the file.
 
 Open the file containing VBA Challenge 2017.
 VBA Challenge 2017.
-![VBA Challenge Results of 2017](./VBA_Challlenge_2017.png)
+![VBA Challenge 2017](./VBA_Challlenge_2017.png)
 Close the file.
 
 This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
