@@ -17,7 +17,7 @@ The stock performance between 2017 and 2018 show that 2017 stock data runs slowe
 Open the file containing VBA Challenge 2017.
 VBA Challenge 2017.
 
-![VBA_Challenge_2017](./VBA_Challenge_2017.png)
+![](VBA_Challenge_2017.png)
 
 Close the file.
 
