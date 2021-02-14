@@ -32,7 +32,7 @@ CLose the file.
  
  Execution Times of the Original Script and the Refactored Script 
 
-The execution times of the original script and the refactored script improved while running the refactored code. The original script was slower because of......The refactored script runs through data quickly because of the new code provided.  
+The execution times of the original script and the refactored script improved while running the refactored code. The original script was faster because of......The refactored script runs through data quickly because of the new code provided.  
 
 SUMMARY  
 
