@@ -33,7 +33,7 @@ This data was an improvement compared to the 2018 performance. Showing that the 
 Open the file containing the VBA_Challenge_2018.
 VBA_Challenge_2018.
 
-![VBA_Challenge_2018] (./VBA_Challenge_2018.png)
+![VBA_Challenge_2018](./VBA_Challenge_2018.png)
 
 CLose the file. 
  
