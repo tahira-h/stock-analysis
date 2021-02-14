@@ -14,18 +14,15 @@ Performance Between 2017 and 2018
 	
 The stock performance between 2017 and 2018 show that 2017 stock data runs slower than the stock data of 2018. As shown below, year 2017 stock runs at 0.2226563, and year 2018 stock runs at 0.2148438). 
 
-Open the file containing the Linux mascot.
-Marvel at its beauty.
-
-Tux, the Linux mascot
-
+Open the file containing Outcomes Based on Launch Date.
+Outcomes Based on Launch Date.
+![Theater Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
 Close the file.
 
-Open the file containing the VBA_Challenge_2017.
-VBA_Challenge_2017.
 
-![2017](./2017.png)
-
+Open the file containing VBA Challenge 2017.
+VBA Challenge 2017.
+![VBA Challenge Results of 2017](./VBA_Challlenge_2017.png)
 Close the file.
 
 This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
