@@ -21,14 +21,21 @@ Tux, the Linux mascot
 
 Close the file.
 
-Open the file containing the Seconds of 2017.
-Seconds of 2017.
+Open the file containing the VBA_Challenge_2017.
+VBA_Challenge_2017.
 
 ![2017](./2017.png)
 
 Close the file.
 
 This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
+
+Open the file containing the VBA_Challenge_2018.
+VBA_Challenge_2018.
+
+![VBA_Challenge_2018] (./VBA_Challenge_2018.png)
+
+CLose the file. 
  
  Execution Times of the Original Script and the Refactored Script 
 
