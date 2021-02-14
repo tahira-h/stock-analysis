@@ -14,12 +14,6 @@ Performance Between 2017 and 2018
 	
 The stock performance between 2017 and 2018 show that 2017 stock data runs slower than the stock data of 2018. As shown below, year 2017 stock runs at 0.2226563, and year 2018 stock runs at 0.2148438). 
 
-Open the file containing Outcomes Based on Launch Date.
-Outcomes Based on Launch Date.
-![Theater Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
-Close the file.
-
-
 Open the file containing VBA Challenge 2017.
 VBA Challenge 2017.
 
