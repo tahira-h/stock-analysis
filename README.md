@@ -12,7 +12,7 @@ RESULTS
 
 Performance Between 2017 and 2018
 	
-The stock performance between 2017 and 2018 show that 2017 has the data of ____. 
+The stock performance between 2017 and 2018 show that 2017 stock data runs slower than the stock data of 2018. As shown below, year 2017 stock runs at 0.2226563, and year 2018 stock runs at 0.2148438). 
 
 Open the file containing the Linux mascot.
 Marvel at its beauty.
