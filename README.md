@@ -27,7 +27,7 @@ VBA Challenge 2017.
 
 Close the file.
 
-This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to... 
+This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to the seconds... 
 
 Open the file containing the VBA_Challenge_2018.
 VBA_Challenge_2018.
