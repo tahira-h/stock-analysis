@@ -32,7 +32,12 @@ Close the file.
  
  Execution Times of the Original Script and the Refactored Script 
 
-The execution times of the original script and the refactored script improved while running the refactored code. The original script was faster because of......The refactored script runs through data quickly because of the new code provided.  
+The execution times of the original script and the refactored script improved while running the refactored code. For instance, the original script runs slower than the refactored year. For instance, the Original Script of year 2017 stock data runs at 1.164063 and the Refactored Script for year 2017 stock data runs at 0.2226563 seconds.
+
+
+
+Additionally, the Original Script of year 2018 stock dara runs at 1.164063 seconds, and the Refactored Script for 2018 stock data runs of 0.2148438 seconds.
+
 
 SUMMARY  
 
