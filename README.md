@@ -32,7 +32,7 @@ Close the file.
  
  Execution Times of the Original Script and the Refactored Script 
 
-The execution times of the original script and the refactored script improved while running the refactored code. For instance, the original script runs slower than the refactored year. For instance, the Original Script of year 2017 stock data runs at 1.164063 and the Refactored Script for year 2017 stock data runs at 0.2226563 seconds.
+The execution times of the original script and the refactored script improved while running the refactored code. For instance, the original script runs slower than the refactored script. As shown in the images below, the Original Script of year 2017 stock data runs at 1.164063 and the Refactored Script for year 2017 stock data runs at 0.2226563 seconds.
 
 Open the file containing the Original Script 2017.
 Original Script 2017.
@@ -69,11 +69,11 @@ SUMMARY
 
 Advantages of Refactoring Code 
 	
-The advantages of refactoring code are that the data is already presented for the analyst to present to Steve. Refactored data allows the analyst to loop through all of the data presented at a faster pace. The stock market data is provided to Steve under one minute.  
+The advantages of refactoring code are that the data is already prepared for the analyst to present to Steve. Refactored data allows the analyst to loop through all of the data presented at a faster pace. The stock market data is provided to Steve under one minute.  
 
 Disadvantages of Refactoring Code 
 
-Disadvantages of refactoring code is editing the original code. If the edited code is improperly written to loop through the data to present at a faster pace. The data could run slowly or not running at all due to errors. In addition, once the code is running at a faster pace, the times may differ each time.    
+Disadvantages of refactoring code is editing the original code. If the edited code is improperly written to loop through the data to present at a faster pace. The data could run slowly or not run at all due to errors. In addition, once the code is running at a faster pace, the times may differ each time. For instance, code may run at 0.1 seconds the first time, and run at 0.213 seconds the second time. 
 
 Pros Applying to Refactoring the Original VBA Script 
 
@@ -81,4 +81,4 @@ Pros applying to refactoring is the process of editing the original VBA code. Th
 
 Cons Applying to Refactoring the Original VBA Script 
 
-Cons applying to refactoring the original script is understanding that refactoring is not the process of adding new functionality. Refactoring is editing is the process of editing the original code to improve VBA script to run results quickly. If the edited code is properly entered into VBA code, then you may proceed with the refactoring process. In contrast, if refactored information is not correctly entered, then VBA script will not properly run until the correct information is provided in the script to run through the data. 
+Cons applying to refactoring the original script is understanding that refactoring is not the process of adding new functionality. Refactoring is the process of editing the original code to improve VBA script to run results quickly. If the edited code is properly entered into VBA code, then you may proceed with the refactoring process. In contrast, if refactored information is not correctly entered, then VBA script will run improperly until the correct information is provided in the script to run through the data. 
