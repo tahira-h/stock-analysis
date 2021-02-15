@@ -6,7 +6,7 @@ OVERVIEW
 
 The Purpose of this Analysis 
 	
-The purpose of this analysis is to improve the information provided to Steve about the stock market by including the entire stock market's data over the past few years. By doing this, a  
+The purpose of this analysis is to improve the information provided to Steve about the stock market by refactoring the data previously presented to him. Refactoring the data will loop through all of the data to determine the script of code, and determine if the code is running faster.  
 
 RESULTS  
 
@@ -34,9 +34,35 @@ Close the file.
 
 The execution times of the original script and the refactored script improved while running the refactored code. For instance, the original script runs slower than the refactored year. For instance, the Original Script of year 2017 stock data runs at 1.164063 and the Refactored Script for year 2017 stock data runs at 0.2226563 seconds.
 
+Open the file containing the Original Script 2017.
+Original Script 2017.
 
+![](Original Script 2017.png)
+
+Close the file.
+
+Open the file containing VBA Challenge 2017.
+VBA Challenge 2017.
+
+![](VBA_Challenge_2017.png)
+
+Close the file.
 
 Additionally, the Original Script of year 2018 stock dara runs at 1.164063 seconds, and the Refactored Script for 2018 stock data runs of 0.2148438 seconds.
+
+Open the file containing the Original Script 2018.
+Original Script.
+
+![Original Script_2018](./Original Script 2018.png)
+
+Close the file. 
+
+Open the file containing the VBA_Challenge_2018.
+VBA_Challenge_2018.
+
+![VBA_Challenge_2018](./VBA_Challenge_2018.png)
+
+Close the file. 
 
 
 SUMMARY  
