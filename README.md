@@ -12,7 +12,7 @@ RESULTS
 
 Performance Between 2017 and 2018
 	
-The stock performance between 2017 and 2018 show that 2017 stock data runs slower than the stock data of 2018. As shown below, year 2017 stock runs at 0.2226563, and year 2018 stock runs at 0.2148438). 
+The stock performance between 2017 and 2018 shows that year 2017 stock data runs slower than 2018 once refactored. As shown below, year 2017 stock runs at 0.2226563 seconds. 
 
 Open the file containing VBA Challenge 2017.
 VBA Challenge 2017.
@@ -21,14 +21,14 @@ VBA Challenge 2017.
 
 Close the file.
 
-This data was an improvement compared to the 2018 performance. Showing that the stock performance decreased due to the seconds... 
+In contrast, year 2018 data of performance in seconds decreased. As shown in the image, the stock analysis for 2018 runs at 0.2148438 seconds. 
 
 Open the file containing the VBA_Challenge_2018.
 VBA_Challenge_2018.
 
 ![VBA_Challenge_2018](./VBA_Challenge_2018.png)
 
-CLose the file. 
+Close the file. 
  
  Execution Times of the Original Script and the Refactored Script 
 
@@ -38,11 +38,11 @@ SUMMARY
 
 Advantages of Refactoring Code 
 	
-The advantages of refactoring code are that the data is already presented for the analyst to present. With the data provided the analyst will have to enter specific codes in order for the data to loop through all the data presented to provide findings of the entire stock market.  
+The advantages of refactoring code are that the data is already presented for the analyst to present to Steve. Refactored data allows the analyst to loop through all of the data presented at a faster pace. The stock market data is provided to Steve under one minute.  
 
 Disadvantages of Refactoring Code 
 
-The disadvantages of refactoring code are the data that is already presented takes specific codes to properly loop through the data to present data of the entire stock market. If proper coding is not provided in the data, there is going to be incorrect data provided, as well as, missed data that will not appear in the analysis because it was not properly provided in the code.   
+Disadvantages of refactoring code is editing the original code. If the edited code is improperly written to loop through the data to present at a faster pace. The data could run slowly or not running at all due to errors. In addition, once the code is running at a faster pace, the times may differ each time.    
 
 Pros Applying to Refactoring the Original VBA Script 
 
