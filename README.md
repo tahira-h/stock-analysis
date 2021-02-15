@@ -37,7 +37,7 @@ The execution times of the original script and the refactored script improved wh
 Open the file containing the Original Script 2017.
 Original Script 2017.
 
-![](Original Script 2017.png)
+![](Original_Script_2017.png)
 
 Close the file.
 
@@ -53,7 +53,7 @@ Additionally, the Original Script of year 2018 stock dara runs at 1.164063 secon
 Open the file containing the Original Script 2018.
 Original Script.
 
-![Original Script_2018](./Original Script 2018.png)
+![Original_Script_2018](./Original_Script_2018.png)
 
 Close the file. 
 
