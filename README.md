@@ -46,8 +46,8 @@ Disadvantages of refactoring code is editing the original code. If the edited co
 
 Pros Applying to Refactoring the Original VBA Script 
 
-The pros apply to refactoring the original VBA because the code is already processed. This provides Steve and the analyst to have something to work with.. 
+Pros applying to refactoring is the process of editing the original VBA code. This provides Steve and the analyst to have access to what has already been worked on in the original script. On the contrary, providing notes in the script allows future coders to understand where the edits were entered and how to edit the original script to properly loop through all of the data. 
 
 Cons Applying to Refactoring the Original VBA Script 
 
-The cons apply to refactoring the original script because with the data already provided, it may take time to refactor the code to improve the time performance. 
+Cons applying to refactoring the original script is understanding that refactoring is not the process of adding new functionality. Refactoring is editing is the process of editing the original code to improve VBA script to run results quickly. If the edited code is properly entered into VBA code, then you may proceed with the refactoring process. In contrast, if refactored information is not correctly entered, then VBA script will not properly run until the correct information is provided in the script to run through the data. 
